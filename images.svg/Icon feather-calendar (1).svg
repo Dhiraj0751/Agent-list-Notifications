@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="14.3" viewBox="0 0 13 14.3">
+  <g id="Icon_feather-calendar" data-name="Icon feather-calendar" transform="translate(-3 -1.5)">
+    <path id="Path_72868" data-name="Path 72868" d="M4.95,4.5h9.1A1.952,1.952,0,0,1,16,6.45v9.1a1.952,1.952,0,0,1-1.95,1.95H4.95A1.952,1.952,0,0,1,3,15.55V6.45A1.952,1.952,0,0,1,4.95,4.5Zm9.1,11.7a.651.651,0,0,0,.65-.65V6.45a.651.651,0,0,0-.65-.65H4.95a.651.651,0,0,0-.65.65v9.1a.651.651,0,0,0,.65.65Z" transform="translate(0 -1.7)" fill="#676767"/>
+    <path id="Path_72869" data-name="Path 72869" d="M23.15,5.4a.65.65,0,0,1-.65-.65V2.15a.65.65,0,0,1,1.3,0v2.6A.65.65,0,0,1,23.15,5.4Z" transform="translate(-11.05)" fill="#676767"/>
+    <path id="Path_72870" data-name="Path 72870" d="M11.15,5.4a.65.65,0,0,1-.65-.65V2.15a.65.65,0,0,1,1.3,0v2.6A.65.65,0,0,1,11.15,5.4Z" transform="translate(-4.25)" fill="#676767"/>
+    <path id="Path_72871" data-name="Path 72871" d="M15.35,14.8H3.65a.65.65,0,0,1,0-1.3h11.7a.65.65,0,0,1,0,1.3Z" transform="translate(0 -6.8)" fill="#676767"/>
+  </g>
+</svg>

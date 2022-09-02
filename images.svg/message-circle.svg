@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g id="message-circle" transform="translate(0.5 0.5)">
+    <path id="message-circle-2" data-name="message-circle" d="M16,9.139a6.052,6.052,0,0,1-.65,2.744,6.139,6.139,0,0,1-5.489,3.394,6.052,6.052,0,0,1-2.744-.65L3,16l1.372-4.117a6.052,6.052,0,0,1-.65-2.744A6.139,6.139,0,0,1,7.117,3.65,6.052,6.052,0,0,1,9.861,3h.361A6.124,6.124,0,0,1,16,8.778Z" transform="translate(-3 -3)" fill="none" stroke="#777" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>
