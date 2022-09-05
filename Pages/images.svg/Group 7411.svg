@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111.839" height="97.571" viewBox="0 0 111.839 97.571">
+  <g id="Group_7411" data-name="Group 7411" transform="translate(-13986.206 -9252.875)">
+    <g id="Ellipse_627" data-name="Ellipse 627" transform="translate(13998.27 9265.448)" fill="none" stroke="#fe6c2e" stroke-width="2.25">
+      <circle cx="2.232" cy="2.232" r="2.232" stroke="none"/>
+      <circle cx="2.232" cy="2.232" r="3.357" fill="none"/>
+    </g>
+    <g id="Ellipse_628" data-name="Ellipse 628" transform="translate(14001.101 9340.786)" fill="none" stroke="#17cac4" stroke-width="2.25">
+      <circle cx="2.232" cy="2.232" r="2.232" stroke="none"/>
+      <circle cx="2.232" cy="2.232" r="3.357" fill="none"/>
+    </g>
+    <g id="Ellipse_629" data-name="Ellipse 629" transform="translate(14091.331 9286.251)" fill="none" stroke="#673593" stroke-width="2.25">
+      <circle cx="2.232" cy="2.232" r="2.232" stroke="none"/>
+      <circle cx="2.232" cy="2.232" r="3.357" fill="none"/>
+    </g>
+    <line id="Line_442" data-name="Line 442" y2="7.648" transform="translate(14003.707 9290.14)" fill="none" stroke="#673593" stroke-width="2.25"/>
+    <line id="Line_443" data-name="Line 443" x2="6.232" transform="translate(14081.8 9266.234)" fill="none" stroke="#fe6c2e" stroke-width="2.25"/>
+    <line id="Line_444" data-name="Line 444" y2="7.934" transform="translate(14033.535 9338.896)" fill="none" stroke="#673593" stroke-width="2.25"/>
+    <line id="Line_445" data-name="Line 445" x1="12.181" transform="translate(13986.206 9312.365)" fill="none" stroke="#ffc813" stroke-width="2.25"/>
+    <line id="Line_446" data-name="Line 446" x1="4.249" transform="translate(14084.45 9314.123)" fill="none" stroke="#17cac4" stroke-width="2.25"/>
+    <line id="Line_447" data-name="Line 447" x1="4.249" transform="translate(14027.984 9257.651)" fill="none" stroke="#673593" stroke-width="2.25"/>
+    <circle id="Ellipse_630" data-name="Ellipse 630" cx="2.261" cy="2.261" r="2.261" transform="translate(14063.25 9345.925)" fill="#fe6c2e"/>
+    <circle id="Ellipse_631" data-name="Ellipse 631" cx="2.261" cy="2.261" r="2.261" transform="translate(14054.848 9254)" fill="none" stroke="#ffc813" stroke-width="2.25"/>
+    <path id="Path_72709" data-name="Path 72709" d="M928,1233.1" transform="translate(13101.77 8049.575)" fill="none" stroke="#ffcb69" stroke-width="2.25"/>
+    <path id="Path_72710" data-name="Path 72710" d="M915.349,1233.1" transform="translate(13101.77 8049.575)" fill="none" stroke="#ffcb69" stroke-width="2.25"/>
+    <g id="Icon_ionic-ios-notifications-outline" data-name="Icon ionic-ios-notifications-outline" transform="translate(14023.755 9278.744)">
+      <path id="Path_72861" data-name="Path 72861" d="M23.462,28.336a1.407,1.407,0,0,0-1.38,1.108,2.723,2.723,0,0,1-.543,1.185,2.054,2.054,0,0,1-1.75.641,2.088,2.088,0,0,1-1.75-.641,2.723,2.723,0,0,1-.543-1.185,1.407,1.407,0,0,0-1.38-1.108h0a1.417,1.417,0,0,0-1.38,1.728A4.856,4.856,0,0,0,19.789,34.1a4.847,4.847,0,0,0,5.053-4.032,1.422,1.422,0,0,0-1.38-1.728Z" transform="translate(4.325 13.316)" fill="#673593"/>
+      <path id="Path_72862" data-name="Path 72862" d="M41.078,36.131c-1.674-2.206-4.966-3.5-4.966-13.378,0-10.139-4.477-14.215-8.651-15.193-.391-.1-.674-.228-.674-.641V6.6A2.665,2.665,0,0,0,24.179,3.93h-.065A2.665,2.665,0,0,0,21.505,6.6v.315c0,.4-.283.543-.674.641-4.184.989-8.651,5.053-8.651,15.193,0,9.879-3.293,11.161-4.966,13.378a2.157,2.157,0,0,0,1.728,3.456h30.44A2.159,2.159,0,0,0,41.078,36.131Zm-4.238.63H11.5a.477.477,0,0,1-.359-.793,13.166,13.166,0,0,0,2.282-3.63,24.628,24.628,0,0,0,1.554-9.585c0-4.054.761-7.227,2.271-9.433a6.973,6.973,0,0,1,4.206-3,3.809,3.809,0,0,0,2.021-1.141.859.859,0,0,1,1.293-.022,3.937,3.937,0,0,0,2.043,1.163,6.973,6.973,0,0,1,4.206,3c1.511,2.206,2.271,5.379,2.271,9.433a24.628,24.628,0,0,0,1.554,9.585,13.316,13.316,0,0,0,2.337,3.684A.449.449,0,0,1,36.84,36.761Z" transform="translate(0 0)" fill="#673593"/>
+    </g>
+  </g>
+</svg>
